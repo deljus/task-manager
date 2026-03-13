@@ -1,0 +1,1 @@
+export { SettingsEditPage } from './ui'

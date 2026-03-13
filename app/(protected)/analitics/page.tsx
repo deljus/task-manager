@@ -1,0 +1,1 @@
+export { AnaliticsPage as default } from '@/pages/analitics'

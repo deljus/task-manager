@@ -1,0 +1,1 @@
+export { NoteViewPage as default } from '@/pages/notes/view'

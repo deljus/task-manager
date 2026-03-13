@@ -1,0 +1,1 @@
+export { SettingsEditPage as default } from "@/pages/settings/edit"

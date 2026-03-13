@@ -1,0 +1,1 @@
+export { CreteNotePage } from "./ui"

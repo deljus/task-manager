@@ -1,0 +1,1 @@
+export { WidgetsPage as default } from "@/pages/widgets/view"
